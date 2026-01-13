@@ -1,6 +1,5 @@
 class Ali:
-    def __init__(self, kurtka, yosh, jinsi, millat):
-        self.kurtka = kurtka
+    def __init__(self, yosh, jinsi, millat):
         self.yosh = yosh
         self.jins = jinsi
         self.millat = millat
