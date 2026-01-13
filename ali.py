@@ -4,6 +4,8 @@ class Ali:
         self.jins = jinsi
         self.millat = millat
         
+
+        
     def ishlamoq(self):
 
         if self.yosh >= 18:
