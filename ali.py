@@ -5,6 +5,8 @@ class Ali:
         self.millat = millat
         
 
+
+
         
     def ishlamoq(self):
 
